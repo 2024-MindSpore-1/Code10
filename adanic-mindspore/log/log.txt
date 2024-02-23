@@ -1,0 +1,465 @@
+2022-01-10 18:40:32,005 - root - INFO - Log file is ../log//log.txt.
+2022-01-10 18:40:32,005 - root - INFO - Data path is C:\Users\LK\Œ“µƒ‘∆∂À”≤≈Ã\data\cifar-10-batches-py.
+2022-01-10 18:40:32,107 - root - INFO - Export path is ../log/.
+2022-01-10 18:40:32,107 - root - INFO - Dataset: cifar10
+2022-01-10 18:40:32,107 - root - INFO - Normal class: 0
+2022-01-10 18:40:32,108 - root - INFO - Network: cifar10_LeNet
+2022-01-10 18:40:32,108 - root - INFO - Deep SVDD objective: one-class
+2022-01-10 18:40:32,108 - root - INFO - Nu-paramerter: 0.10
+2022-01-10 18:40:32,108 - root - INFO - Computation device: cpu
+2022-01-10 18:40:32,108 - root - INFO - Number of dataloader workers: 0
+2022-01-10 18:43:07,887 - root - INFO - Log file is ../log//log.txt.
+2022-01-10 18:43:07,926 - root - INFO - Data path is C:\Users\LK\Œ“µƒ‘∆∂À”≤≈Ã\data\cifar-10-batches-py.
+2022-01-10 18:43:07,926 - root - INFO - Export path is ../log/.
+2022-01-10 18:43:07,926 - root - INFO - Dataset: cifar10
+2022-01-10 18:43:07,926 - root - INFO - Normal class: 0
+2022-01-10 18:43:07,926 - root - INFO - Network: cifar10_LeNet
+2022-01-10 18:43:07,927 - root - INFO - Deep SVDD objective: one-class
+2022-01-10 18:43:07,927 - root - INFO - Nu-paramerter: 0.10
+2022-01-10 18:43:07,927 - root - INFO - Computation device: cpu
+2022-01-10 18:43:07,927 - root - INFO - Number of dataloader workers: 0
+2022-01-10 18:43:10,429 - root - INFO - Pretraining: True
+2022-01-10 18:43:10,429 - root - INFO - Pretraining optimizer: adam
+2022-01-10 18:43:10,429 - root - INFO - Pretraining learning rate: 0.001
+2022-01-10 18:43:10,429 - root - INFO - Pretraining epochs: 100
+2022-01-10 18:43:10,429 - root - INFO - Pretraining learning rate scheduler milestones: ()
+2022-01-10 18:43:10,429 - root - INFO - Pretraining batch size: 128
+2022-01-10 18:43:10,429 - root - INFO - Pretraining weight decay: 1e-06
+2022-01-10 18:43:10,480 - root - INFO - Starting pretraining...
+2022-01-10 18:44:59,503 - root - INFO - Log file is ../log//log.txt.
+2022-01-10 18:44:59,504 - root - INFO - Data path is C:\Users\LK\Œ“µƒ‘∆∂À”≤≈Ã\data\cifar-10-batches-py.
+2022-01-10 18:44:59,504 - root - INFO - Export path is ../log/.
+2022-01-10 18:44:59,504 - root - INFO - Dataset: cifar10
+2022-01-10 18:44:59,504 - root - INFO - Normal class: 0
+2022-01-10 18:44:59,504 - root - INFO - Network: cifar10_LeNet
+2022-01-10 18:44:59,504 - root - INFO - Deep SVDD objective: one-class
+2022-01-10 18:44:59,505 - root - INFO - Nu-paramerter: 0.10
+2022-01-10 18:44:59,505 - root - INFO - Computation device: cpu
+2022-01-10 18:44:59,505 - root - INFO - Number of dataloader workers: 0
+2022-01-10 18:45:01,679 - root - INFO - Pretraining: True
+2022-01-10 18:45:01,679 - root - INFO - Pretraining optimizer: adam
+2022-01-10 18:45:01,679 - root - INFO - Pretraining learning rate: 0.001
+2022-01-10 18:45:01,679 - root - INFO - Pretraining epochs: 100
+2022-01-10 18:45:01,679 - root - INFO - Pretraining learning rate scheduler milestones: ()
+2022-01-10 18:45:01,680 - root - INFO - Pretraining batch size: 128
+2022-01-10 18:45:01,680 - root - INFO - Pretraining weight decay: 1e-06
+2022-01-10 18:45:01,692 - root - INFO - Starting pretraining...
+2022-01-10 18:46:21,773 - root - INFO -   Epoch 1/100	 Time: 80.080	 Loss: 19.75154215
+2022-01-10 18:47:41,054 - root - INFO -   Epoch 2/100	 Time: 79.280	 Loss: 3.88907769
+2022-01-10 18:49:06,532 - root - INFO -   Epoch 3/100	 Time: 85.478	 Loss: 2.84322199
+2022-01-10 18:50:45,027 - root - INFO -   Epoch 4/100	 Time: 98.494	 Loss: 2.28143045
+2022-01-10 18:52:18,297 - root - INFO -   Epoch 5/100	 Time: 93.270	 Loss: 2.11542612
+2022-01-10 18:53:49,928 - root - INFO -   Epoch 6/100	 Time: 91.630	 Loss: 2.18599153
+2022-01-10 18:55:44,565 - root - INFO -   Epoch 7/100	 Time: 114.636	 Loss: 1.92776909
+2022-01-10 18:57:26,898 - root - INFO -   Epoch 8/100	 Time: 102.332	 Loss: 1.84088376
+2022-01-10 18:59:06,661 - root - INFO -   Epoch 9/100	 Time: 99.763	 Loss: 1.68645014
+2022-01-10 19:00:34,649 - root - INFO -   Epoch 10/100	 Time: 87.987	 Loss: 1.69445306
+2022-01-10 19:01:55,673 - root - INFO -   Epoch 11/100	 Time: 81.023	 Loss: 1.53577948
+2022-01-10 19:03:16,685 - root - INFO -   Epoch 12/100	 Time: 81.011	 Loss: 1.52415916
+2022-01-10 19:04:37,143 - root - INFO -   Epoch 13/100	 Time: 80.458	 Loss: 1.46248940
+2022-01-10 19:05:58,049 - root - INFO -   Epoch 14/100	 Time: 80.905	 Loss: 1.50664997
+2022-01-10 19:07:18,843 - root - INFO -   Epoch 15/100	 Time: 80.794	 Loss: 1.47893829
+2022-01-10 19:08:46,891 - root - INFO -   Epoch 16/100	 Time: 88.049	 Loss: 1.41977921
+2022-01-10 19:10:19,067 - root - INFO -   Epoch 17/100	 Time: 92.176	 Loss: 1.33822893
+2022-01-10 19:11:39,473 - root - INFO -   Epoch 18/100	 Time: 80.404	 Loss: 1.27484632
+2022-01-10 19:13:00,454 - root - INFO -   Epoch 19/100	 Time: 80.981	 Loss: 1.30677251
+2022-01-10 19:14:20,928 - root - INFO -   Epoch 20/100	 Time: 80.474	 Loss: 1.29416369
+2022-01-10 19:15:41,915 - root - INFO -   Epoch 21/100	 Time: 80.985	 Loss: 1.33969589
+2022-01-10 19:17:05,294 - root - INFO -   Epoch 22/100	 Time: 83.378	 Loss: 1.23421154
+2022-01-10 19:18:25,873 - root - INFO -   Epoch 23/100	 Time: 80.579	 Loss: 1.36729270
+2022-01-10 19:19:45,746 - root - INFO -   Epoch 24/100	 Time: 79.871	 Loss: 1.28745997
+2022-01-10 19:21:10,804 - root - INFO -   Epoch 25/100	 Time: 85.058	 Loss: 1.29136165
+2022-01-10 19:22:39,315 - root - INFO -   Epoch 26/100	 Time: 88.512	 Loss: 1.27405305
+2022-01-10 19:24:06,291 - root - INFO -   Epoch 27/100	 Time: 86.975	 Loss: 1.19066724
+2022-01-10 19:25:35,430 - root - INFO -   Epoch 28/100	 Time: 89.138	 Loss: 1.32151395
+2022-01-10 19:27:05,914 - root - INFO -   Epoch 29/100	 Time: 90.484	 Loss: 1.24380378
+2022-01-10 19:28:33,212 - root - INFO -   Epoch 30/100	 Time: 87.296	 Loss: 1.25938452
+2022-01-10 19:30:06,799 - root - INFO -   Epoch 31/100	 Time: 93.586	 Loss: 1.08811221
+2022-01-10 19:31:35,071 - root - INFO -   Epoch 32/100	 Time: 88.271	 Loss: 1.10296864
+2022-01-10 19:33:00,833 - root - INFO -   Epoch 33/100	 Time: 85.761	 Loss: 1.13697853
+2022-01-10 19:34:24,907 - root - INFO -   Epoch 34/100	 Time: 84.074	 Loss: 1.15149827
+2022-01-10 19:35:51,602 - root - INFO -   Epoch 35/100	 Time: 86.695	 Loss: 1.21762237
+2022-01-10 19:37:18,190 - root - INFO -   Epoch 36/100	 Time: 86.587	 Loss: 1.25414368
+2022-01-10 19:38:45,088 - root - INFO -   Epoch 37/100	 Time: 86.897	 Loss: 1.09975306
+2022-01-10 19:40:17,947 - root - INFO -   Epoch 38/100	 Time: 92.859	 Loss: 1.05796269
+2022-01-10 19:41:52,590 - root - INFO -   Epoch 39/100	 Time: 94.643	 Loss: 1.11519514
+2022-01-10 19:43:26,365 - root - INFO -   Epoch 40/100	 Time: 93.774	 Loss: 1.11159928
+2022-01-10 19:45:05,354 - root - INFO -   Epoch 41/100	 Time: 98.986	 Loss: 1.15123121
+2022-01-10 19:46:45,958 - root - INFO -   Epoch 42/100	 Time: 100.603	 Loss: 1.08105690
+2022-01-10 19:48:23,207 - root - INFO -   Epoch 43/100	 Time: 97.249	 Loss: 0.98506600
+2022-01-10 19:49:53,154 - root - INFO -   Epoch 44/100	 Time: 89.946	 Loss: 1.01906807
+2022-01-10 19:51:30,564 - root - INFO -   Epoch 45/100	 Time: 97.409	 Loss: 0.99636089
+2022-01-10 19:53:00,769 - root - INFO -   Epoch 46/100	 Time: 90.203	 Loss: 1.03238339
+2022-01-10 19:54:27,081 - root - INFO -   Epoch 47/100	 Time: 86.312	 Loss: 0.96577543
+2022-01-10 19:55:53,769 - root - INFO -   Epoch 48/100	 Time: 86.687	 Loss: 1.03658662
+2022-01-10 19:57:21,571 - root - INFO -   Epoch 49/100	 Time: 87.802	 Loss: 0.98623802
+2022-01-10 19:58:47,440 - root - INFO -   Epoch 50/100	 Time: 85.868	 Loss: 0.98003210
+2022-01-10 20:00:17,697 - root - INFO -   Epoch 51/100	 Time: 90.256	 Loss: 0.94633498
+2022-01-10 20:01:44,829 - root - INFO -   Epoch 52/100	 Time: 87.131	 Loss: 0.97951883
+2022-01-10 20:03:11,433 - root - INFO -   Epoch 53/100	 Time: 86.604	 Loss: 0.91050408
+2022-01-10 20:04:37,814 - root - INFO -   Epoch 54/100	 Time: 86.381	 Loss: 0.95348088
+2022-01-10 20:06:04,145 - root - INFO -   Epoch 55/100	 Time: 86.328	 Loss: 1.04444081
+2022-01-10 20:07:32,011 - root - INFO -   Epoch 56/100	 Time: 87.866	 Loss: 0.95145043
+2022-01-10 20:08:58,117 - root - INFO -   Epoch 57/100	 Time: 86.106	 Loss: 1.07602970
+2022-01-10 20:10:24,107 - root - INFO -   Epoch 58/100	 Time: 85.989	 Loss: 0.98346788
+2022-01-10 20:11:50,681 - root - INFO -   Epoch 59/100	 Time: 86.573	 Loss: 0.95580204
+2022-01-10 20:13:17,148 - root - INFO -   Epoch 60/100	 Time: 86.468	 Loss: 0.95384583
+2022-01-10 20:14:43,111 - root - INFO -   Epoch 61/100	 Time: 85.962	 Loss: 0.98790614
+2022-01-10 20:16:09,525 - root - INFO -   Epoch 62/100	 Time: 86.413	 Loss: 0.92931056
+2022-01-10 20:17:35,546 - root - INFO -   Epoch 63/100	 Time: 86.020	 Loss: 0.94850336
+2022-01-10 20:19:00,982 - root - INFO -   Epoch 64/100	 Time: 85.435	 Loss: 0.92792446
+2022-01-10 20:20:27,150 - root - INFO -   Epoch 65/100	 Time: 86.168	 Loss: 0.90362388
+2022-01-10 20:21:53,363 - root - INFO -   Epoch 66/100	 Time: 86.212	 Loss: 0.85365413
+2022-01-10 20:23:20,028 - root - INFO -   Epoch 67/100	 Time: 86.663	 Loss: 0.91488101
+2022-01-10 20:24:45,556 - root - INFO -   Epoch 68/100	 Time: 85.529	 Loss: 0.95643948
+2022-01-10 20:26:15,474 - root - INFO -   Epoch 69/100	 Time: 89.916	 Loss: 0.90169073
+2022-01-10 20:27:46,341 - root - INFO -   Epoch 70/100	 Time: 90.867	 Loss: 0.93388908
+2022-01-10 20:29:16,024 - root - INFO -   Epoch 71/100	 Time: 89.682	 Loss: 0.95464523
+2022-01-10 20:30:43,026 - root - INFO -   Epoch 72/100	 Time: 87.002	 Loss: 1.01691090
+2022-01-10 20:32:15,755 - root - INFO -   Epoch 73/100	 Time: 92.729	 Loss: 0.89642392
+2022-01-10 20:33:47,608 - root - INFO -   Epoch 74/100	 Time: 91.852	 Loss: 0.96143454
+2022-01-10 20:35:27,631 - root - INFO -   Epoch 75/100	 Time: 100.022	 Loss: 0.87160680
+2022-01-10 20:37:07,087 - root - INFO -   Epoch 76/100	 Time: 99.456	 Loss: 0.91799168
+2022-01-10 20:38:42,897 - root - INFO -   Epoch 77/100	 Time: 95.811	 Loss: 1.02394082
+2022-01-10 20:40:15,890 - root - INFO -   Epoch 78/100	 Time: 92.992	 Loss: 1.01678296
+2022-01-10 20:41:39,079 - root - INFO -   Epoch 79/100	 Time: 83.189	 Loss: 0.90370903
+2022-01-10 20:43:17,139 - root - INFO -   Epoch 80/100	 Time: 98.059	 Loss: 0.82731415
+2022-01-10 20:44:54,453 - root - INFO -   Epoch 81/100	 Time: 97.313	 Loss: 0.87224458
+2022-01-10 20:46:28,938 - root - INFO -   Epoch 82/100	 Time: 94.485	 Loss: 0.82904747
+2022-01-10 20:48:07,722 - root - INFO -   Epoch 83/100	 Time: 98.783	 Loss: 0.84602601
+2022-01-10 20:49:37,767 - root - INFO -   Epoch 84/100	 Time: 90.044	 Loss: 0.89730289
+2022-01-10 20:51:35,727 - root - INFO -   Epoch 85/100	 Time: 117.959	 Loss: 0.83014610
+2022-01-10 20:53:13,882 - root - INFO -   Epoch 86/100	 Time: 98.155	 Loss: 0.96540138
+2022-01-10 20:54:47,760 - root - INFO -   Epoch 87/100	 Time: 93.877	 Loss: 0.85629106
+2022-01-10 20:56:17,295 - root - INFO -   Epoch 88/100	 Time: 89.535	 Loss: 0.88715163
+2022-01-10 20:57:45,143 - root - INFO -   Epoch 89/100	 Time: 87.846	 Loss: 0.80768196
+2022-01-10 20:59:12,986 - root - INFO -   Epoch 90/100	 Time: 87.842	 Loss: 0.79146002
+2022-01-10 21:00:40,935 - root - INFO -   Epoch 91/100	 Time: 87.948	 Loss: 0.83227253
+2022-01-10 21:02:09,908 - root - INFO -   Epoch 92/100	 Time: 88.972	 Loss: 0.78921424
+2022-01-10 21:03:38,665 - root - INFO -   Epoch 93/100	 Time: 88.756	 Loss: 0.80227470
+2022-01-10 21:05:06,241 - root - INFO -   Epoch 94/100	 Time: 87.575	 Loss: 0.76995232
+2022-01-10 21:06:34,200 - root - INFO -   Epoch 95/100	 Time: 87.958	 Loss: 0.83340596
+2022-01-10 21:08:01,708 - root - INFO -   Epoch 96/100	 Time: 87.507	 Loss: 0.82030531
+2022-01-10 21:09:30,135 - root - INFO -   Epoch 97/100	 Time: 88.427	 Loss: 0.76208877
+2022-01-10 21:10:58,116 - root - INFO -   Epoch 98/100	 Time: 87.981	 Loss: 0.79699362
+2022-01-10 21:12:25,938 - root - INFO -   Epoch 99/100	 Time: 87.821	 Loss: 0.84207015
+2022-01-10 21:13:53,816 - root - INFO -   Epoch 100/100	 Time: 87.877	 Loss: 0.80869238
+2022-01-10 21:13:53,816 - root - INFO - Pretraining time: 8932.124
+2022-01-10 21:13:53,816 - root - INFO - Finished pretraining.
+2022-01-10 21:13:53,825 - root - INFO - Testing autoencoder...
+2022-01-10 21:14:59,975 - root - INFO - Test set Loss: 0.83879603
+2022-01-10 21:15:00,196 - root - INFO - Test set AUC: 59.07%
+2022-01-10 21:15:00,196 - root - INFO - Autoencoder testing time: 66.370
+2022-01-10 21:15:00,196 - root - INFO - Finished testing autoencoder.
+2022-01-10 21:15:00,215 - root - INFO - Training optimizer: adam
+2022-01-10 21:15:00,215 - root - INFO - Training learning rate: 0.001
+2022-01-10 21:15:00,216 - root - INFO - Training epochs: 50
+2022-01-10 21:15:00,216 - root - INFO - Training learning rate scheduler milestones: ()
+2022-01-10 21:15:00,216 - root - INFO - Training batch size: 128
+2022-01-10 21:15:00,216 - root - INFO - Training weight decay: 1e-06
+2022-01-10 21:15:00,219 - root - INFO - Initializing center c...
+2022-01-10 21:15:16,366 - root - INFO - Center c initialized.
+2022-01-10 21:15:16,366 - root - INFO - Starting training...
+2022-01-10 21:15:54,372 - root - INFO -   Epoch 1/50	 Time: 38.005	 Loss: 64.58357974
+2022-01-10 21:16:28,905 - root - INFO -   Epoch 2/50	 Time: 34.534	 Loss: 1.62236411
+2022-01-10 21:17:03,310 - root - INFO -   Epoch 3/50	 Time: 34.405	 Loss: 0.69219963
+2022-01-10 21:17:37,894 - root - INFO -   Epoch 4/50	 Time: 34.583	 Loss: 0.48343911
+2022-01-10 21:18:12,576 - root - INFO -   Epoch 5/50	 Time: 34.681	 Loss: 0.36430167
+2022-01-10 21:18:50,482 - root - INFO -   Epoch 6/50	 Time: 37.907	 Loss: 0.28687148
+2022-01-10 21:19:28,308 - root - INFO -   Epoch 7/50	 Time: 37.824	 Loss: 0.23533041
+2022-01-10 21:20:09,831 - root - INFO -   Epoch 8/50	 Time: 41.523	 Loss: 0.19676726
+2022-01-10 21:20:46,234 - root - INFO -   Epoch 9/50	 Time: 36.402	 Loss: 0.16513227
+2022-01-10 21:21:21,268 - root - INFO -   Epoch 10/50	 Time: 35.033	 Loss: 0.14416138
+2022-01-10 21:21:58,420 - root - INFO -   Epoch 11/50	 Time: 37.151	 Loss: 0.12422881
+2022-01-10 21:22:39,526 - root - INFO -   Epoch 12/50	 Time: 41.106	 Loss: 0.11062434
+2022-01-10 21:23:15,463 - root - INFO -   Epoch 13/50	 Time: 35.936	 Loss: 0.09766661
+2022-01-10 21:23:51,391 - root - INFO -   Epoch 14/50	 Time: 35.928	 Loss: 0.08922745
+2022-01-10 21:24:30,043 - root - INFO -   Epoch 15/50	 Time: 38.650	 Loss: 0.08030330
+2022-01-10 21:25:11,185 - root - INFO -   Epoch 16/50	 Time: 41.141	 Loss: 0.07534826
+2022-01-10 21:25:49,480 - root - INFO -   Epoch 17/50	 Time: 38.295	 Loss: 0.06788160
+2022-01-10 21:26:26,202 - root - INFO -   Epoch 18/50	 Time: 36.721	 Loss: 0.06377369
+2022-01-10 21:27:01,720 - root - INFO -   Epoch 19/50	 Time: 35.517	 Loss: 0.06602185
+2022-01-10 21:27:38,384 - root - INFO -   Epoch 20/50	 Time: 36.663	 Loss: 0.05997092
+2022-01-10 21:28:13,467 - root - INFO -   Epoch 21/50	 Time: 35.082	 Loss: 0.05527122
+2022-01-10 21:28:50,000 - root - INFO -   Epoch 22/50	 Time: 36.532	 Loss: 0.05384178
+2022-01-10 21:29:28,974 - root - INFO -   Epoch 23/50	 Time: 38.973	 Loss: 0.04986736
+2022-01-10 21:30:14,728 - root - INFO -   Epoch 24/50	 Time: 45.755	 Loss: 0.04799717
+2022-01-10 21:30:51,563 - root - INFO -   Epoch 25/50	 Time: 36.834	 Loss: 0.04993073
+2022-01-10 21:31:26,548 - root - INFO -   Epoch 26/50	 Time: 34.985	 Loss: 0.05209203
+2022-01-10 21:32:01,435 - root - INFO -   Epoch 27/50	 Time: 34.887	 Loss: 0.04422365
+2022-01-10 21:32:38,231 - root - INFO -   Epoch 28/50	 Time: 36.794	 Loss: 0.05140703
+2022-01-10 21:33:13,413 - root - INFO -   Epoch 29/50	 Time: 35.182	 Loss: 0.03758266
+2022-01-10 21:33:47,790 - root - INFO -   Epoch 30/50	 Time: 34.377	 Loss: 0.04283907
+2022-01-10 21:34:23,716 - root - INFO -   Epoch 31/50	 Time: 35.926	 Loss: 0.04005808
+2022-01-10 21:34:59,433 - root - INFO -   Epoch 32/50	 Time: 35.717	 Loss: 0.04936838
+2022-01-10 21:35:34,178 - root - INFO -   Epoch 33/50	 Time: 34.745	 Loss: 0.04395297
+2022-01-10 21:36:09,411 - root - INFO -   Epoch 34/50	 Time: 35.232	 Loss: 0.03993118
+2022-01-10 21:36:44,389 - root - INFO -   Epoch 35/50	 Time: 34.977	 Loss: 0.03834646
+2022-01-10 21:37:18,638 - root - INFO -   Epoch 36/50	 Time: 34.248	 Loss: 0.05358232
+2022-01-10 21:37:56,765 - root - INFO -   Epoch 37/50	 Time: 38.126	 Loss: 0.04194017
+2022-01-10 21:38:38,704 - root - INFO -   Epoch 38/50	 Time: 41.940	 Loss: 0.04242121
+2022-01-10 21:39:14,302 - root - INFO -   Epoch 39/50	 Time: 35.597	 Loss: 0.03893056
+2022-01-10 21:39:48,620 - root - INFO -   Epoch 40/50	 Time: 34.317	 Loss: 0.04083618
+2022-01-10 21:40:24,119 - root - INFO -   Epoch 41/50	 Time: 35.498	 Loss: 0.04988951
+2022-01-10 21:41:00,368 - root - INFO -   Epoch 42/50	 Time: 36.249	 Loss: 0.05747734
+2022-01-10 21:41:36,374 - root - INFO -   Epoch 43/50	 Time: 36.005	 Loss: 0.04409823
+2022-01-10 21:42:12,567 - root - INFO -   Epoch 44/50	 Time: 36.193	 Loss: 0.07067008
+2022-01-10 21:42:47,803 - root - INFO -   Epoch 45/50	 Time: 35.236	 Loss: 0.03929119
+2022-01-10 21:43:24,190 - root - INFO -   Epoch 46/50	 Time: 36.387	 Loss: 0.05136607
+2022-01-10 21:43:59,556 - root - INFO -   Epoch 47/50	 Time: 35.365	 Loss: 0.07301393
+2022-01-10 21:44:34,867 - root - INFO -   Epoch 48/50	 Time: 35.311	 Loss: 0.05354587
+2022-01-10 21:45:10,200 - root - INFO -   Epoch 49/50	 Time: 35.332	 Loss: 0.09100328
+2022-01-10 21:45:45,223 - root - INFO -   Epoch 50/50	 Time: 35.023	 Loss: 0.06052479
+2022-01-10 21:45:45,224 - root - INFO - Training time: 1828.858
+2022-01-10 21:45:45,224 - root - INFO - Finished training.
+2022-01-10 21:45:45,228 - root - INFO - Starting testing...
+2022-01-10 21:46:13,979 - root - INFO - Testing time: 28.751
+2022-01-10 21:46:13,996 - root - INFO - Test set AUC: 51.92%
+2022-01-10 21:46:13,996 - root - INFO - Finished testing.
+2022-01-18 22:24:13,199 - root - INFO - Log file is ../log//log.txt.
+2022-01-18 22:24:13,216 - root - INFO - Data path is C:\Users\LK\Œ“µƒ‘∆∂À”≤≈Ã\data\cifar-10-batches-py.
+2022-01-18 22:24:13,224 - root - INFO - Export path is ../log/.
+2022-01-18 22:24:13,224 - root - INFO - Dataset: cifar10
+2022-01-18 22:24:13,225 - root - INFO - Normal class: 0
+2022-01-18 22:24:13,225 - root - INFO - Network: cifar10_LeNet
+2022-01-18 22:24:13,225 - root - INFO - Deep SVDD objective: one-class
+2022-01-18 22:24:13,225 - root - INFO - Nu-paramerter: 0.10
+2022-01-18 22:24:13,225 - root - INFO - Computation device: cpu
+2022-01-18 22:24:13,226 - root - INFO - Number of dataloader workers: 0
+2022-01-18 22:49:30,294 - root - INFO - Pretraining: True
+2022-01-18 22:49:50,254 - root - INFO - Pretraining optimizer: adam
+2022-01-18 22:49:55,447 - root - INFO - Pretraining learning rate: 0.001
+2022-01-18 22:49:57,998 - root - INFO - Pretraining epochs: 100
+2022-01-18 22:49:58,898 - root - INFO - Pretraining learning rate scheduler milestones: ()
+2022-01-18 22:50:00,098 - root - INFO - Pretraining batch size: 128
+2022-01-18 22:50:01,359 - root - INFO - Pretraining weight decay: 1e-06
+2022-01-18 23:04:45,132 - root - INFO - Starting pretraining...
+2022-01-19 10:18:35,023 - root - INFO - Log file is ../log//log.txt.
+2022-01-19 10:18:35,030 - root - INFO - Data path is C:\Users\LK\Œ“µƒ‘∆∂À”≤≈Ã\data\cifar-10-batches-py.
+2022-01-19 10:18:35,038 - root - INFO - Export path is ../log/.
+2022-01-19 10:18:35,038 - root - INFO - Dataset: cifar10
+2022-01-19 10:18:35,038 - root - INFO - Normal class: 0
+2022-01-19 10:18:35,038 - root - INFO - Network: cifar10_LeNet
+2022-01-19 10:18:35,038 - root - INFO - Deep SVDD objective: one-class
+2022-01-19 10:18:35,039 - root - INFO - Nu-paramerter: 0.10
+2022-01-19 10:18:35,039 - root - INFO - Computation device: cpu
+2022-01-19 10:18:35,039 - root - INFO - Number of dataloader workers: 0
+2022-01-19 10:18:37,770 - root - INFO - Pretraining: True
+2022-01-19 10:18:37,770 - root - INFO - Pretraining optimizer: adam
+2022-01-19 10:18:37,770 - root - INFO - Pretraining learning rate: 0.001
+2022-01-19 10:18:37,771 - root - INFO - Pretraining epochs: 100
+2022-01-19 10:18:37,771 - root - INFO - Pretraining learning rate scheduler milestones: ()
+2022-01-19 10:18:37,771 - root - INFO - Pretraining batch size: 128
+2022-01-19 10:18:37,771 - root - INFO - Pretraining weight decay: 1e-06
+2022-01-19 21:00:55,399 - root - INFO - Starting pretraining...
+2022-05-02 10:44:55,780 - root - INFO - Log file is ../log//log.txt.
+2022-05-02 10:44:55,792 - root - INFO - Data path is E://dataset//cifar-10-python.
+2022-05-02 10:44:55,793 - root - INFO - Export path is ../log/.
+2022-05-02 10:44:55,793 - root - INFO - Dataset: cifar10
+2022-05-02 10:44:55,793 - root - INFO - Normal class: 0
+2022-05-02 10:44:55,793 - root - INFO - Network: cifar10_LeNet
+2022-05-02 10:44:55,793 - root - INFO - Deep SVDD objective: one-class
+2022-05-02 10:44:55,793 - root - INFO - Nu-paramerter: 0.10
+2022-05-02 10:44:55,793 - root - INFO - Computation device: cpu
+2022-05-02 10:44:55,793 - root - INFO - Number of dataloader workers: 0
+2022-05-02 10:44:58,105 - root - INFO - Pretraining: True
+2022-05-02 10:44:58,106 - root - INFO - Pretraining optimizer: adam
+2022-05-02 10:44:58,106 - root - INFO - Pretraining learning rate: 0.001
+2022-05-02 10:44:58,106 - root - INFO - Pretraining epochs: 2
+2022-05-02 10:44:58,106 - root - INFO - Pretraining learning rate scheduler milestones: (1,)
+2022-05-02 10:44:58,106 - root - INFO - Pretraining batch size: 128
+2022-05-02 10:44:58,106 - root - INFO - Pretraining weight decay: 1e-06
+2022-05-02 10:44:58,348 - root - INFO - Starting pretraining...
+2022-05-02 10:46:45,260 - root - INFO - Log file is ../log//log.txt.
+2022-05-02 10:46:45,260 - root - INFO - Data path is E://dataset//cifar-10-python.
+2022-05-02 10:46:45,261 - root - INFO - Export path is ../log/.
+2022-05-02 10:46:45,261 - root - INFO - Dataset: cifar10
+2022-05-02 10:46:45,261 - root - INFO - Normal class: 0
+2022-05-02 10:46:45,261 - root - INFO - Network: cifar10_LeNet
+2022-05-02 10:46:45,261 - root - INFO - Deep SVDD objective: one-class
+2022-05-02 10:46:45,261 - root - INFO - Nu-paramerter: 0.10
+2022-05-02 10:46:45,261 - root - INFO - Computation device: cpu
+2022-05-02 10:46:45,261 - root - INFO - Number of dataloader workers: 0
+2022-05-02 10:46:46,601 - root - INFO - Pretraining: True
+2022-05-02 10:46:46,602 - root - INFO - Pretraining optimizer: adam
+2022-05-02 10:46:46,602 - root - INFO - Pretraining learning rate: 0.001
+2022-05-02 10:46:46,602 - root - INFO - Pretraining epochs: 2
+2022-05-02 10:46:46,602 - root - INFO - Pretraining learning rate scheduler milestones: (1,)
+2022-05-02 10:46:46,602 - root - INFO - Pretraining batch size: 128
+2022-05-02 10:46:46,602 - root - INFO - Pretraining weight decay: 1e-06
+2022-05-02 10:46:46,644 - root - INFO - Starting pretraining...
+2022-05-02 10:47:09,293 - root - INFO -   Epoch 1/2	 Time: 22.649	 Loss: 118.22189670
+2022-05-02 10:47:09,294 - root - INFO -   LR scheduler: new learning rate is 0.0001
+2022-05-02 10:47:31,886 - root - INFO -   Epoch 2/2	 Time: 22.592	 Loss: 14.91970303
+2022-05-02 10:47:31,886 - root - INFO - Pretraining time: 45.242
+2022-05-02 10:47:31,886 - root - INFO - Finished pretraining.
+2022-05-02 10:47:31,887 - root - INFO - Testing autoencoder...
+2022-05-02 10:47:49,391 - root - INFO - Test set Loss: 19.08170500
+2022-05-02 10:47:49,396 - root - INFO - Test set AUC: 68.80%
+2022-05-02 10:47:49,396 - root - INFO - Autoencoder testing time: 17.509
+2022-05-02 10:47:49,396 - root - INFO - Finished testing autoencoder.
+2022-05-02 10:47:49,398 - root - INFO - Training optimizer: adam
+2022-05-02 10:47:49,398 - root - INFO - Training learning rate: 0.001
+2022-05-02 10:47:49,398 - root - INFO - Training epochs: 2
+2022-05-02 10:47:49,398 - root - INFO - Training learning rate scheduler milestones: (1,)
+2022-05-02 10:47:49,398 - root - INFO - Training batch size: 128
+2022-05-02 10:47:49,398 - root - INFO - Training weight decay: 1e-06
+2022-05-02 10:47:49,399 - root - INFO - Initializing center c...
+2022-05-02 10:47:52,837 - root - INFO - Center c initialized.
+2022-05-02 10:47:52,837 - root - INFO - Starting training...
+2022-05-02 10:47:59,515 - root - INFO -   Epoch 1/2	 Time: 6.678	 Loss: 2.26715291
+2022-05-02 10:47:59,515 - root - INFO -   LR scheduler: new learning rate is 0.0001
+2022-05-02 10:48:06,198 - root - INFO -   Epoch 2/2	 Time: 6.683	 Loss: 0.29626407
+2022-05-02 10:48:06,198 - root - INFO - Training time: 13.361
+2022-05-02 10:48:06,198 - root - INFO - Finished training.
+2022-05-02 10:48:06,199 - root - INFO - Starting testing...
+2022-05-02 10:48:13,224 - root - INFO - Testing time: 7.024
+2022-05-02 10:48:13,229 - root - INFO - Test set AUC: 63.40%
+2022-05-02 10:48:13,229 - root - INFO - Finished testing.
+2022-05-02 10:54:27,851 - root - INFO - Log file is ../log//log.txt.
+2022-05-02 10:54:27,851 - root - INFO - Data path is E://dataset//cifar-10-python.
+2022-05-02 10:54:27,851 - root - INFO - Export path is ../log/.
+2022-05-02 10:54:27,851 - root - INFO - Dataset: cifar10
+2022-05-02 10:54:27,851 - root - INFO - Normal class: 0
+2022-05-02 10:54:27,851 - root - INFO - Network: cifar10_LeNet
+2022-05-02 10:54:27,851 - root - INFO - Deep SVDD objective: one-class
+2022-05-02 10:54:27,851 - root - INFO - Nu-paramerter: 0.10
+2022-05-02 10:54:27,851 - root - INFO - Computation device: cpu
+2022-05-02 10:54:27,851 - root - INFO - Number of dataloader workers: 0
+2022-05-02 10:54:29,270 - root - INFO - Pretraining: True
+2022-05-02 10:54:29,271 - root - INFO - Pretraining optimizer: adam
+2022-05-02 10:54:29,271 - root - INFO - Pretraining learning rate: 0.001
+2022-05-02 10:54:29,271 - root - INFO - Pretraining epochs: 2
+2022-05-02 10:54:29,271 - root - INFO - Pretraining learning rate scheduler milestones: (1,)
+2022-05-02 10:54:29,271 - root - INFO - Pretraining batch size: 128
+2022-05-02 10:54:29,271 - root - INFO - Pretraining weight decay: 1e-06
+2022-05-02 10:54:29,317 - root - INFO - Starting pretraining...
+2022-05-02 10:54:51,754 - root - INFO -   Epoch 1/2	 Time: 22.437	 Loss: 56.37980361
+2022-05-02 10:54:51,755 - root - INFO -   LR scheduler: new learning rate is 0.0001
+2022-05-02 10:55:14,862 - root - INFO -   Epoch 2/2	 Time: 23.107	 Loss: 9.00786059
+2022-05-02 10:55:14,862 - root - INFO - Pretraining time: 45.545
+2022-05-02 10:55:14,862 - root - INFO - Finished pretraining.
+2022-05-02 10:55:14,863 - root - INFO - Testing autoencoder...
+2022-05-02 10:55:32,923 - root - INFO - Test set Loss: 11.97971470
+2022-05-02 10:55:32,928 - root - INFO - Test set AUC: 58.80%
+2022-05-02 10:55:32,929 - root - INFO - Autoencoder testing time: 18.066
+2022-05-02 10:55:32,929 - root - INFO - Finished testing autoencoder.
+2022-05-02 10:55:32,930 - root - INFO - Training optimizer: adam
+2022-05-02 10:55:32,930 - root - INFO - Training learning rate: 0.001
+2022-05-02 10:55:32,930 - root - INFO - Training epochs: 2
+2022-05-02 10:55:32,930 - root - INFO - Training learning rate scheduler milestones: (1,)
+2022-05-02 10:55:32,930 - root - INFO - Training batch size: 128
+2022-05-02 10:55:32,930 - root - INFO - Training weight decay: 1e-06
+2022-05-02 10:55:32,931 - root - INFO - Initializing center c...
+2022-05-02 10:55:36,542 - root - INFO - Center c initialized.
+2022-05-02 10:55:36,542 - root - INFO - Starting training...
+2022-05-02 10:55:43,580 - root - INFO -   Epoch 1/2	 Time: 7.038	 Loss: 1.90127180
+2022-05-02 10:55:43,580 - root - INFO -   LR scheduler: new learning rate is 0.0001
+2022-05-02 10:55:50,537 - root - INFO -   Epoch 2/2	 Time: 6.957	 Loss: 0.24066559
+2022-05-02 10:55:50,537 - root - INFO - Training time: 13.995
+2022-05-02 10:55:50,537 - root - INFO - Finished training.
+2022-05-02 10:55:50,538 - root - INFO - Starting testing...
+2022-05-02 10:55:57,741 - root - INFO - Testing time: 7.203
+2022-05-02 10:55:57,746 - root - INFO - Test set AUC: 58.78%
+2022-05-02 10:55:57,746 - root - INFO - Finished testing.
+2022-05-02 10:57:28,763 - root - INFO - Log file is ../log//log.txt.
+2022-05-02 10:57:28,764 - root - INFO - Data path is E://dataset//cifar-10-python.
+2022-05-02 10:57:28,764 - root - INFO - Export path is ../log/.
+2022-05-02 10:57:28,764 - root - INFO - Dataset: cifar10
+2022-05-02 10:57:28,764 - root - INFO - Normal class: 0
+2022-05-02 10:57:28,764 - root - INFO - Network: cifar10_LeNet
+2022-05-02 10:57:28,764 - root - INFO - Deep SVDD objective: one-class
+2022-05-02 10:57:28,764 - root - INFO - Nu-paramerter: 0.10
+2022-05-02 10:57:28,764 - root - INFO - Computation device: cpu
+2022-05-02 10:57:28,765 - root - INFO - Number of dataloader workers: 0
+2022-05-02 11:38:02,214 - root - INFO - Pretraining: True
+2022-05-02 11:38:03,441 - root - INFO - Pretraining optimizer: adam
+2022-05-02 11:38:03,800 - root - INFO - Pretraining learning rate: 0.001
+2022-05-02 11:38:04,039 - root - INFO - Pretraining epochs: 2
+2022-05-02 11:38:04,249 - root - INFO - Pretraining learning rate scheduler milestones: (1,)
+2022-05-02 11:38:04,444 - root - INFO - Pretraining batch size: 128
+2022-05-02 11:38:04,654 - root - INFO - Pretraining weight decay: 1e-06
+2022-05-02 11:39:46,529 - root - INFO - Starting pretraining...
+2022-05-05 16:09:36,553 - root - INFO - Log file is ../log//log.txt.
+2022-05-05 16:09:36,553 - root - INFO - Data path is E://dataset//cifar-10-python.
+2022-05-05 16:09:36,553 - root - INFO - Export path is ../log/.
+2022-05-05 16:09:36,553 - root - INFO - Dataset: cifar10
+2022-05-05 16:09:36,553 - root - INFO - Normal class: 0
+2022-05-05 16:09:36,553 - root - INFO - Network: cifar10_LeNet
+2022-05-05 16:09:36,553 - root - INFO - Deep SVDD objective: one-class
+2022-05-05 16:09:36,553 - root - INFO - Nu-paramerter: 0.10
+2022-05-05 16:09:36,553 - root - INFO - Computation device: cpu
+2022-05-05 16:09:36,553 - root - INFO - Number of dataloader workers: 0
+2022-05-05 16:09:38,822 - root - INFO - Pretraining: True
+2022-05-05 16:09:38,822 - root - INFO - Pretraining optimizer: adam
+2022-05-05 16:09:38,822 - root - INFO - Pretraining learning rate: 0.001
+2022-05-05 16:09:38,822 - root - INFO - Pretraining epochs: 2
+2022-05-05 16:09:38,822 - root - INFO - Pretraining learning rate scheduler milestones: (1,)
+2022-05-05 16:09:38,822 - root - INFO - Pretraining batch size: 128
+2022-05-05 16:09:38,822 - root - INFO - Pretraining weight decay: 1e-06
+2022-05-05 16:09:39,114 - root - INFO - Starting pretraining...
+2022-05-05 16:10:02,204 - root - INFO -   Epoch 1/2	 Time: 23.091	 Loss: 87.00090494
+2022-05-05 16:10:02,205 - root - INFO -   LR scheduler: new learning rate is 0.0001
+2022-05-05 16:10:25,977 - root - INFO -   Epoch 2/2	 Time: 23.770	 Loss: 34.60427094
+2022-05-05 16:10:25,977 - root - INFO - Pretraining time: 46.863
+2022-05-05 16:10:25,977 - root - INFO - Finished pretraining.
+2022-05-05 16:10:26,016 - root - INFO - Testing autoencoder...
+2022-05-05 16:10:44,618 - root - INFO - Test set Loss: 33.87604948
+2022-05-05 16:10:44,624 - root - INFO - Test set AUC: 58.05%
+2022-05-05 16:10:44,624 - root - INFO - Autoencoder testing time: 18.607
+2022-05-05 16:10:44,624 - root - INFO - Finished testing autoencoder.
+2022-05-05 16:10:44,632 - root - INFO - Training optimizer: adam
+2022-05-05 16:10:44,632 - root - INFO - Training learning rate: 0.001
+2022-05-05 16:10:44,632 - root - INFO - Training epochs: 2
+2022-05-05 16:10:44,632 - root - INFO - Training learning rate scheduler milestones: (1,)
+2022-05-05 16:10:44,632 - root - INFO - Training batch size: 128
+2022-05-05 16:10:44,632 - root - INFO - Training weight decay: 1e-06
+2022-05-05 16:10:44,633 - root - INFO - Initializing center c...
+2022-05-05 16:10:48,247 - root - INFO - Center c initialized.
+2022-05-05 16:10:48,247 - root - INFO - Starting training...
+2022-05-05 16:17:08,746 - root - INFO - Log file is ../log//log.txt.
+2022-05-05 16:17:08,746 - root - INFO - Data path is E://dataset//cifar-10-python.
+2022-05-05 16:17:08,746 - root - INFO - Export path is ../log/.
+2022-05-05 16:17:08,746 - root - INFO - Dataset: cifar10
+2022-05-05 16:17:08,746 - root - INFO - Normal class: 0
+2022-05-05 16:17:08,746 - root - INFO - Network: cifar10_LeNet
+2022-05-05 16:17:08,746 - root - INFO - Deep SVDD objective: one-class
+2022-05-05 16:17:08,746 - root - INFO - Nu-paramerter: 0.10
+2022-05-05 16:17:08,746 - root - INFO - Computation device: cpu
+2022-05-05 16:17:08,746 - root - INFO - Number of dataloader workers: 0
+2022-05-05 16:17:10,128 - root - INFO - Pretraining: True
+2022-05-05 16:17:10,128 - root - INFO - Pretraining optimizer: adam
+2022-05-05 16:17:10,128 - root - INFO - Pretraining learning rate: 0.001
+2022-05-05 16:17:10,128 - root - INFO - Pretraining epochs: 2
+2022-05-05 16:17:10,128 - root - INFO - Pretraining learning rate scheduler milestones: (1,)
+2022-05-05 16:17:10,128 - root - INFO - Pretraining batch size: 128
+2022-05-05 16:17:10,128 - root - INFO - Pretraining weight decay: 1e-06
+2022-05-05 16:17:10,171 - root - INFO - Starting pretraining...
+2022-05-05 16:17:33,759 - root - INFO -   Epoch 1/2	 Time: 23.589	 Loss: 106.32586184
+2022-05-05 16:17:33,759 - root - INFO -   LR scheduler: new learning rate is 0.0001
+2022-05-05 16:17:57,887 - root - INFO -   Epoch 2/2	 Time: 24.128	 Loss: 35.25429215
+2022-05-05 16:17:57,887 - root - INFO - Pretraining time: 47.716
+2022-05-05 16:17:57,888 - root - INFO - Finished pretraining.
+2022-05-05 16:17:57,889 - root - INFO - Testing autoencoder...
+2022-05-05 16:18:16,687 - root - INFO - Test set Loss: 35.01707454
+2022-05-05 16:18:16,691 - root - INFO - Test set AUC: 57.30%
+2022-05-05 16:18:16,691 - root - INFO - Autoencoder testing time: 18.802
+2022-05-05 16:18:16,691 - root - INFO - Finished testing autoencoder.
+2022-05-05 16:18:16,692 - root - INFO - Training optimizer: adam
+2022-05-05 16:18:16,692 - root - INFO - Training learning rate: 0.001
+2022-05-05 16:18:16,692 - root - INFO - Training epochs: 2
+2022-05-05 16:18:16,693 - root - INFO - Training learning rate scheduler milestones: (1,)
+2022-05-05 16:18:16,693 - root - INFO - Training batch size: 128
+2022-05-05 16:18:16,693 - root - INFO - Training weight decay: 1e-06
+2022-05-05 16:18:16,694 - root - INFO - Initializing center c...
+2022-05-05 16:18:20,490 - root - INFO - Center c initialized.
+2022-05-05 16:18:20,490 - root - INFO - Starting training...
+2022-05-05 16:18:27,906 - root - INFO -   Epoch 1/2	 Time: 7.415	 Loss: 29.28889889
+2022-05-05 16:18:27,907 - root - INFO -   LR scheduler: new learning rate is 0.0001
+2022-05-05 16:18:35,328 - root - INFO -   Epoch 2/2	 Time: 7.421	 Loss: 2.04235905
+2022-05-05 16:18:35,328 - root - INFO - Training time: 14.837
+2022-05-05 16:18:35,328 - root - INFO - Finished training.
+2022-05-05 16:18:35,330 - root - INFO - Starting testing...
+2022-05-05 16:18:42,662 - root - INFO - Testing time: 7.332
+2022-05-05 16:18:42,667 - root - INFO - Test set AUC: 28.51%
+2022-05-05 16:18:42,667 - root - INFO - Finished testing.
